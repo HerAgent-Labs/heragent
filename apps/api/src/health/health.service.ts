@@ -9,7 +9,7 @@ export class HealthService {
 
   getHealth() {
     return {
-      status: 'ok',
+      status: 'okay',
       service: this.configService.get<string>('app.name'),
       version: this.configService.get<string>('app.version'),
       environment: this.configService.get<string>('app.environment'),
