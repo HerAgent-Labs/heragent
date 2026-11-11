@@ -1,6 +1,6 @@
 # HerAgent
 
-**An open-source, AI-powered business assistant for entrepreneurs, built with specialized AI agents and Stellar.**
+**An open-source, AI-powered business assistant for entrepreneurs, built with specialized AI agents and Stellar..**
 
 HerAgent aims to help entrepreneurs manage and grow their businesses through practical AI-assisted workflows for finance, marketing, customer support, business planning, and operations.
 
